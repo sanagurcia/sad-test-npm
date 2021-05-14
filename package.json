@@ -1,0 +1,19 @@
+{
+  "name": "@sanagurcia/test-npm",
+  "version": "1.0.0",
+  "description": "For testing use of private packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanagurcia/sad-test-npm.git"
+  },
+  "author": "Santiago Agurcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanagurcia/sad-test-npm/issues"
+  },
+  "homepage": "https://github.com/sanagurcia/sad-test-npm#readme"
+}
